@@ -135,7 +135,7 @@ img {
     border-top: 1px solid #ECECEC;
     padding: 200px 0px;
     
-    background-image: url(../image/gradient.jpg), url(../image/biznes_fon.jpg);
+    background-image: url(../image/gradient.png), url(../image/biznes_fon.jpg);
 }
 
 .section_biznes::before {
